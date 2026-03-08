@@ -20,32 +20,6 @@ It consists of the following main stages:
 
 ---
 
-# System Architecture
-      
-        Webcam
-          |
-          v
-  Image Capture Script
-│
-▼
-Dataset
-│
-▼
-Training Script
-│
-▼
-Face Encodings File
-│
-▼
-Real-time Recognition
-│
-▼
-Attendance Logging
-│
-▼
-Flask Web Server
-    
----
 
 # Features
 
