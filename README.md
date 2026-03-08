@@ -25,26 +25,25 @@ It consists of the following main stages:
         Webcam
           |
           v
-   Image Capture Script
-          |
-          v
-        Dataset
-          |
-          v
-     Training Script
-          |
-          v
-    Face Encodings File
-          |
-          v
-   Real-time Recognition
-          |
-          v
-    Attendance Logging
-          |
-          v
-      Flask Web Server
-
+  Image Capture Script
+│
+▼
+Dataset
+│
+▼
+Training Script
+│
+▼
+Face Encodings File
+│
+▼
+Real-time Recognition
+│
+▼
+Attendance Logging
+│
+▼
+Flask Web Server
     
 ---
 
